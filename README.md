@@ -1,8 +1,6 @@
 - 👋 Hi, My name is Antonius Blantran de Rozari. I'm a farmer with engineering degree in applied physics
-- 👀 My current interests is in automation in broad sense starting from Digital twin, RPA, IoT to Robotics (ROS)
-- 🌱 I have several personal projects related to agriculture and rural community development. At the moment I'm doing 
-RPA for OpenSID which will be used in our village
-
+- 👀 My current interests is in automation in broad sense starting from Digital twin, IoT, Robotics (ROS) and RPA.
+- 🌱 I have several personal projects related to agriculture and rural community development. 
 
 <!---
 Blantranderozari/Blantranderozari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
