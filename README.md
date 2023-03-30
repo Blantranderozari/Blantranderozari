@@ -1,6 +1,6 @@
-- 👋 Hi, My name is Antonius Blantran de Rozari. I'm a farmer with engineering degree in applied physics
-- 👀 My current interests is in automation in broad sense starting from Digital twin, IoT, Robotics (ROS) and RPA.
-- 🌱 I have several personal projects related to agriculture and rural community development. 
+- 👋 Hi, My name is Antonius Blantran de Rozari. I hold an engineering degree in Applied Physics
+- 👀 My current interests is in automation in broad sense starting from AI/Machine Learning/Deep Learning, Cloud computing (AWS), IoT, Robotics (ROS), RPA and Digital twin.
+- 🌱 Here I put my  personal projects related. I hope you find them useful.
 
 <!---
 Blantranderozari/Blantranderozari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
